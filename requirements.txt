@@ -14,7 +14,7 @@ flask==1.0.3
 idna==2.8                 # via requests
 itsdangerous==1.1.0       # via flask
 jinja2==2.10.1            # via flask
-lxml==4.3.3               # via twitterscraper
+lxml==4.6.3               # via twitterscraper
 markupsafe==1.1.1         # via jinja2
 requests==2.22.0          # via twitterscraper
 rfeed==1.1.1
